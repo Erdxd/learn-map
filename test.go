@@ -7,6 +7,7 @@ import (
 type mmap = map[string]string
 
 func main() {
+
 	m := map[string]string{}
 menu:
 	for {
