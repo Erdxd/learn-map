@@ -19,6 +19,7 @@ menu:
 			Printm(m)
 
 		} else if user == "2" {
+   fmt.Println(4)
 
 			m = addbookmark(m)
 
